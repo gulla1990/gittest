@@ -1,2 +1,3 @@
 check the status
 added directly
+using cmd status -s
